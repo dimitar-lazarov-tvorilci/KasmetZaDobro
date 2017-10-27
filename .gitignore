@@ -1,0 +1,15 @@
+
+*.bin
+*.lock
+*.xml
+*.iml
+*.java
+*.json
+*.png
+*.rawproto
+*.jar
+*.properties
+*.store
+app/build/outputs/logs/manifest-merger-debug-report.txt
+gradlew
+gradlew.bat
